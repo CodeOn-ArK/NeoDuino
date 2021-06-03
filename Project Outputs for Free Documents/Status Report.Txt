@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 18:56:43 On 03-06-2021
+
+Output: NeoDuino
+Type  : BOM
+From  : Variant [[No Variations]] of Project [UdemyCourse.PrjPcb]
+   Generated File[NeoDuino-UdemyCourse.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 18:56:47 On 03-06-2021
