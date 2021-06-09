@@ -165,12 +165,12 @@ DocumentPath=Project Outputs for Free Documents\BOM\NeoDuino-UdemyCourse.xlsx
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Title
-Value=NeoDuino
-
-[Parameter2]
 Name=NotFitted
 Value=NF
+
+[Parameter2]
+Name=Title
+Value=NeoDuino
 
 [Configuration1]
 Name=Sources

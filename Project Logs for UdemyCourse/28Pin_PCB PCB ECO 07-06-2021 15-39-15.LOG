@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=Y1 Old Footprint=XTAL_ECS-160-S-23A-EN-TR New Footprint=CRYSTAL_16MHz
+Added Component: Designator=Y2(XTAL_ECS-160-S-23A-EN-TR)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ECS Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ECS-160-S-23A-EN-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-2 ECS International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ECS-160-S-23A-EN-TR/ECS%20Inc./view-part/2122006/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "XC983CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=328P_16MHZ_XTAL1 Pin=Y2-1
+Added Pin To Net: NetName=328P_16MHZ_XTAL2 Pin=Y2-2
